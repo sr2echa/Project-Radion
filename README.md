@@ -17,6 +17,3 @@ Instructions and Other Helpful & Vital Info Will Be Available Inside the .zip Pa
 
 ## Video
 [![How to compile?](https://img.youtube.com/vi/bA3CcQ4p1QQ/0.jpg)](https://www.youtube.com/watch?v=bA3CcQ4p1QQ)
-
-## Credit
-[5R33CH4](https://5r33ch4.github.io/)    -    For creating the Bypass and the Injector
